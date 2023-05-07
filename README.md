@@ -94,6 +94,4 @@
 ![llm](https://user-images.githubusercontent.com/40186859/235826460-f5a18534-962b-4b18-99e9-6df8c63ee44e.gif)
 
 
-# Will update soon
-
 Document: https://docs.google.com/document/d/1-gqbFe7uqVisnAVUDR0Kj78iYx2EFq_lfY3ekFBgikI/edit?usp=sharing
