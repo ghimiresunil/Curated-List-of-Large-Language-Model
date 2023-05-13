@@ -95,3 +95,4 @@
 
 
 Document: https://docs.google.com/document/d/1-gqbFe7uqVisnAVUDR0Kj78iYx2EFq_lfY3ekFBgikI/edit?usp=sharing
+Research and Commericial LLMs: https://docs.google.com/document/d/1f_0ZddadYtLbvdHY4oF43Lk4jsSW-WGvxsaGn3SIQuw/edit?usp=sharing
